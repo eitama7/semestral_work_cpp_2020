@@ -1,4 +1,4 @@
-# Semestral work in C++, 2020.
+# Semestral work in C++
 ### RPG "Bang!" was made only for educational purposes.
 
 To run the game compile the program with "**$make all**" and run the project with "**$run ./korshmar**".
