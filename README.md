@@ -1,7 +1,7 @@
 # Semestral work in C++
 ### RPG "Bang!" was made only for educational purposes.
 
-To run the game compile the program with "**$make all**" and run the project with "**$run ./korshmar**".
+To run the game compile the program with "**make all**" and run the project with "**run ./korshmar**".
 
 This game allows you to choose game mode: '**vs player**'/'**vs PC**'. In both you have to choose 2 characters you want to play with and after choose active one.
 After choosing you will get cards from the playing deck in amount how many points of health your active character does have.
